@@ -1,4 +1,4 @@
-# Evaluation Methods for Topic Models - External Code Reference
+# Evaluation Methods for Topic Models 
 
 This repository references evaluation methods originally developed in the **Evaluation Methods for Topic Models** by Wallach et al. (2009). These methods are designed for evaluating topic models, and the original implementation can be accessed at the link below:
 
